@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nnar1agv954e81ua6w4gqrdwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff80ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacstella&size_weight=0.1&count_weight=0.9)
+
+[![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacstella&size_weight=0.1&count_weight=0.9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
