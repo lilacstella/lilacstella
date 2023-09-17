@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![GitHub Overall Stats](https://github-readme-stats.vercel.app/api?username=lilacstella&show_icons=true&hide_rank=true&include_all_commits=true)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&compact=true)
+[![Wakatime Stats]([https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&compact=true](https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&layout=compact&custom_title=Time%20spent%20on%20languages)https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&layout=compact&custom_title=Time%20spent%20on%20languages)](https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&layout=compact&custom_title=Time%20spent%20on%20languages)
