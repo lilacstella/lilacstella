@@ -10,3 +10,6 @@
 
 
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacstella&size_weight=0.1&count_weight=0.9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 2.5px, transparent 8%), #2e303d; background-size: 50px 50px;]{x0000}$}
