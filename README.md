@@ -1,7 +1,5 @@
 # 👋, I'm Stella!
 
-### Just working on things that I think are cool and try to learn some stuff along the way!
-
 ### What I like now! 🎵
 [![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=nnar1agv954e81ua6w4gqrdwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff80ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
