@@ -6,8 +6,4 @@
 ### What I am up to now! ⬇
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lilacstella&layout=compact&custom_title=Time%20spent%20on%20languages)
 
-
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacstella&size_weight=0.1&count_weight=0.9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![GitHub Overall Stats](https://github-readme-stats.vercel.app/api?username=lilacstella&show_icons=true&hide_rank=true&include_all_commits=true) 
